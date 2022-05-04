@@ -188,9 +188,6 @@ export default function PersistentDrawerRight() {
         <DrawerHeader />
         {/* <Typography paragraph>
           abc
-        </Typography>
-        <Typography paragraph>
-          abc
         </Typography> */}
       </Main>
       <Drawer
